@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.14)  14 MAY 2024 18:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.14)  14 MAY 2024 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -511,11 +511,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(7.22743pt, 780.51512pt, 7.22743pt)
+* v-part:(T,H,B)=(7.22743pt, 787.74255pt, 0.0pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=542.02501pt
-* \textheight=780.51512pt
+* \textheight=787.74255pt
 * \oddsidemargin=-36.135pt
 * \evensidemargin=-36.135pt
 * \topmargin=-102.04256pt
@@ -574,27 +574,23 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Warning: Font shape `OT1/lmr/bx/sc' undefined
 (Font)              using `OT1/lmr/bx/n' instead on input line 17.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--24
-
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 28.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 28.
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 28.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 44.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 25.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 32--89
+Underfull \hbox (badness 10000) in paragraph at lines 18--42
+
+ []
+
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 45.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--140
+Underfull \hbox (badness 10000) in paragraph at lines 112--161
 
  []
 
@@ -613,18 +609,18 @@ Package rerunfilecheck Info: File `ethan_cv.out' has not changed.
 (rerunfilecheck)             Checksum: F07F3280956D529F84DD2CB128FA4984;380.
  ) 
 Here is how much of TeX's memory you used:
- 22132 strings out of 474116
- 410301 string characters out of 5743682
- 1947187 words of memory out of 5000000
- 44108 multiletter control sequences out of 15000+600000
- 606440 words of font info for 65 fonts, out of 8000000 for 9000
+ 22119 strings out of 474116
+ 410183 string characters out of 5743682
+ 1951187 words of memory out of 5000000
+ 44100 multiletter control sequences out of 15000+600000
+ 605146 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,121p,499b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on ethan_cv.pdf (1 page, 215025 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on ethan_cv.pdf (1 page, 216546 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
