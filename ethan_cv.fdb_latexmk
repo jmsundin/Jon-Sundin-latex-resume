@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1715734456.14325 "/Users/ethancavill/Documents/code/latex_resume/ethan_cv.tex" "ethan_cv.pdf" "ethan_cv" 1715734457.93792 0
-  "/Users/ethancavill/Documents/code/latex_resume/ethan_cv.tex" 1715734454.5055 6754 539a450c8842613367491e5349b12dbd ""
+["pdflatex"] 1715735849.71546 "/Users/ethancavill/Documents/code/latex_resume/ethan_cv.tex" "ethan_cv.pdf" "ethan_cv" 1715735851.52315 0
+  "/Users/ethancavill/Documents/code/latex_resume/ethan_cv.tex" 1715735847.46323 5000 c9fe2eaf49079d15e94b95db2e225af7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -178,10 +178,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1715725093.11509 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1715724994 8221424 c55d4a5a8e1d52635334dcbf44c84533 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "ethan_cv.aux" 1715734457.67323 591 dd64e492ba51f81a4ebac896696e3285 "pdflatex"
+  "ethan_cv.aux" 1715735851.26348 591 d28c882c0cb57c20f59bf36cee233f92 "pdflatex"
   "ethan_cv.cls" 1715732734.7979 3656 59fdf6915ca2477f8466eb18009c651b ""
-  "ethan_cv.out" 1715734457.67409 380 f07f3280956d529f84dd2cb128fa4984 "pdflatex"
-  "ethan_cv.tex" 1715734454.5055 6754 539a450c8842613367491e5349b12dbd ""
+  "ethan_cv.out" 1715735851.26455 380 f07f3280956d529f84dd2cb128fa4984 "pdflatex"
+  "ethan_cv.tex" 1715735847.46323 5000 c9fe2eaf49079d15e94b95db2e225af7 ""
   (generated)
   "ethan_cv.aux"
   "ethan_cv.log"
