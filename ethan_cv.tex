@@ -1,12 +1,13 @@
+
 \documentclass{ethan_cv}
 
-\setname{John Doe}{}
-\setaddress{Rando, Canada}
-\setmobile{+1 333-333-3333}
-\setmail{john@johndoe.com}
+\setname{Ethan Cavill}{}
+\setaddress{South Australia, North Adelaide}
+\setmobile{+455 291 701}
+\setmail{ethancavill@gmail.com}
 % \setcitizenship{Eldian Citizen}
-\setlinkedinaccount{https://www.linkedin.com/in/rick-astley-b6a42b24/} 
-\setgithubaccount{https://github.com/topics/rick-astley} 
+\setlinkedinaccount{https://www.linkedin.com/in/ethancavill}
+\setgithubaccount{https://github.com/earcherc}
 \setthemecolor{MidnightBlue}
 
 \begin{document}
@@ -16,10 +17,12 @@
 \vspace{1ex} % white space
 
 \section{Education} 
-    \datedexperience{Master of Engineering (Thesis) - Mechanical}{Sep 2018 - Apr 2021}
-    \explanation{Rando University}{San Francisco, CA} 
-    \datedexperience{Bachelor of Engineering - Mechanical}{Sep 2013 - Apr 2018}
-    \explanation{Rando University}{San Francisco, CA}
+    \datedexperience{Bachelor of Mathematical Sciences}{Jul 2022 - Dec 2023}
+    \explanation{University of Adelaide}{Adelaide, SA} 
+    \datedexperience{Bachelor of Economics and Finance (deferred)}{Mar 2018 - Jun 2020}
+    \explanation{University of Adelaide}{Adelaide, SA}
+    \datedexperience{International Baccalaureate (Years 11-12)}{Jan 2014 - Nov 2016}
+    \explanation{St Peter's College}{Adelaide, SA}
 
 \section{Skills}
     \newcommand{\skillone}{\createskill{Programming Languages}{Python \cpshalf Java \cpshalf C++ \cpshalf C \cpshalf C\# \cpshalf JavaScript \cpshalf MATLAB \cpshalf Simulink}}
@@ -28,104 +31,145 @@
     \vspace{-3mm} % reduces whitespace!
 
 \section{Experience}
-    \datedexperience{Rando University}{May 2018 - Mar 2021}
-    \explanation{Graduate Control Systems Researcher}{San Francisco, CA}
+    \datedexperience{Owner}{Mar 2024 - Present}
+    \explanation{Clai Studios}{San Diego, CA}
     \explanationdetail{
     \smallskip
      \coloredbullet\ %
-     Developed a novel modification to a quaternion-based control system that optimizes control allocation within a quadrotor's actuator constraints to improve its stability and performance.
+     Established a development studio dedicated to creating advanced solutions for medical clinics.
     
     \smallskip 
     \coloredbullet\ %
-     Modeled and simulated a quadrotor's attitude and translational dynamics in MATLAB/Simulink to quantify the stability and performance improvements of the proposed control system.
-     
-     \smallskip
-     \coloredbullet\ %
-     Adapted and extended existing C++ code architectures to facilitate prototype implementation and performed hardware-in-the-loop simulations, using Gazebo/ROS for testing.
+     Focused on building SaaS products and utilizing AI to improve clinic efficiency and workflow.
      
      \smallskip
      }
      %
-     \datedexperience{Rando Space Company}{Sep 2017 - Dec 2017} 
-    \explanation{Satellite Simulations Intern}{San Francisco, CA} 
+     \datedexperience{ML/Python/DS/NLP Engineering Intern}{Oct 2023 - Jan 2024} 
+    \explanation{Tangible AI}{San Diego, CA} 
     \explanationdetail{ 
     \smallskip 
     \coloredbullet\ %
-     Extended foundational Python code that performs Monte Carlo simulations for the Very Specific Space Mission.
+     Applied machine learning and data science tools to learn natural language processing (NLP).
      
      \smallskip
      \coloredbullet\ %
-     Coordinated with Senior Engineers in validating and improving models while supplying time-sensitive simulation data for Critical Design Reviews. 
+     Built a sequence-to-sequence neural network translator from scratch using numpy, PyTorch, and pandas.
      
      \smallskip
      \coloredbullet\ %
-     Generated reports for the Very Specific Space Mission performance under varied initial conditions of the Specific system to ensure its reliability before launch. 
+     Final project: Developed a vector-based search engine utilizing TF-IDF and BERT.
      
-     \bigskip
-     } 
+     \smallskip
+     \coloredbullet\ %
+     Technologies used: Joblib, numpy, pandas, scikit-learn, sentence-transformers, spaCy.
+     
+     \smallskip
+     }
+     %
+     \datedexperience{Full Stack Engineer}{Jul 2021 - Nov 2023}
+    \explanation{Adelaide MRI}{Adelaide, SA}
+    \explanationdetail{
+    \smallskip
+     \coloredbullet\ %
+     Developed a suite of software products to support clinical practice.
+     
+    \smallskip 
+    \coloredbullet\ %
+     A radiology reporting system, RadReport, significantly improving report accuracy, detail, and throughput through data and image analysis.
+     
+     \smallskip
+     \coloredbullet\ %
+     Worked on additional projects including employee rostering, patient management, invoice management, web configurators, and booking systems.
+     
+     \smallskip
+     \coloredbullet\ %
+     Technologies used: Angular, RxJS, Docker, Redis, Flask, React, SQLAlchemy, Celery, PyTest, Cypress, Sentry, Jinja, Postgres.
+     
+     \smallskip
+     }
 
 \section{Notable Projects}
-     \datedexperience{RandoSite.com}{Mar 2021 - Sep 2021}
-    \explanation{Full Stack Developer}{San Francisco, CA} 
+     \datedexperience{Deep Work Timer}{Mar 2021 - Sep 2021}
+    \explanation{Personal Project}{}
     \explanationdetail{
     \smallskip 
     \coloredbullet\ %
-     Independently built an open-source web application that performs advanced Monte Carlo calculations for options trading, receiving praise from the trading community for its simplicity and accessibility. 
+     Inspired by Cal Newport's 'Deep Work,' this productivity tool reimagines focus tracking. Disappointed by existing options, I built a personalized timer aligning with Newport's research. This NextJS application uses Docker, AWS, and a robust backend (Redis, Postgres, GraphQL, etc.) to deliver an optimized deep work experience.
      
      \smallskip
      \coloredbullet\ %
-     Front and back-end development using the React and Flask (Python) frameworks, respectively. These services were containerized using Docker Compose to enable scalability in the software architecture.
+     Technologies: NextJS, Docker, AWS, Redis, Postgres, Jotai, GraphQL, Strawberry, FastAPI, SQLModel
      
      \smallskip
      \coloredbullet\ %
-     Used Python optimization techniques to reduce calculation times for a fast API that can serve thousands of users per second. Load balancing in AWS was incorporated to ensure fault-tolerance and reliability of the application.
-     
-     \smallskip
-     \coloredbullet\ %
-     Integrated the Azure Active Directory B2C service for secure user authentication and convenient identity management. 
+     View Project: \href{https://github.com/earcherc/deep-work}{GitHub}
      
      \smallskip
      }
-     \datedexperience{RandoApp Android App}{Jan 2018 - Apr 2018}
-    \explanation{Full Stack Developer}{San Francisco, CA} 
+     %
+     \datedexperience{Tangible AI Internship}{Oct 2023 - Jan 2024}
+    \explanation{Tangible AI}{}
     \explanationdetail{
     \smallskip
      \coloredbullet\ %
-     Collaborated with a team in building an Android application for monitoring the health status of trees in San Francisco. The app would assist the city in its urban planning and sustainability goals. 
-    
-    \smallskip 
-    \coloredbullet\ %
-    Implemented the user authentication system using the Android SDK (Java). Google Maps was integrated into the app to enable geotagging of trees and updating their health status by users.
-      
+     During my internship at Tangible AI, I developed and evaluated various information retrieval (IR) systems to enhance search results within a corpus of health documents. Starting with TF-IDF, I created a pipeline for processing and assessment, then compared results against a BERT-based vectorizer. This project, alongside Hobson Lane's 'NLP in Action,' deepened my understanding of natural language processing.
+     
      \smallskip
      \coloredbullet\ %
-    Test-driven development of all back-end endpoints using JUnit testing. The back-end was deployed on a Tomcat server.   
+     Technologies: Jupyter, Pandas, SpaCy, NumPy, SciKit, HuggingFace, Joblib, PyTorch
+     
+     \smallskip
+     \coloredbullet\ %
+     View Project: \href{https://github.com/earcherc/vector-search}{GitHub}
      
      \smallskip
      }
-     \datedexperience{University Space Design Team}{Sep 2016 - May 2018}
-    \explanation{Satellite Control Systems Lead}{San Francisco, CA} 
+     %
+     \datedexperience{Harmony Within}{Jan 2021 - Apr 2021}
+    \explanation{Professional Project}{}
     \explanationdetail{
     \smallskip
      \coloredbullet\ %
-     Led a team of prospective engineers in designing the control system for Rando University's first student-led Cube Satellite (CubeSat) project. The satellite would compete in the USA Satellite Design Competition.
-    
-    \smallskip 
-    \coloredbullet\ %
-     Simulated the attitude dynamics and kinematics of a CubeSat in MATLAB to optimize controller gains and to size our actuators for power efficiency.
+     This professionally designed website empowers health coaches to effectively manage their practice and attract new clients. The platform provides a comprehensive suite of tools for client engagement, appointment scheduling, and resource sharing, all presented in an elegant interface that fosters trust and credibility.
      
      \smallskip
      \coloredbullet\ %
-     Implemented PID and B-dot controllers in Python on a Raspberry Pi for the attitude control of a CubeSat prototype, achieving a desired pointing accuracy of less than 15 degrees for our mission.
-
+     Technologies: Gatsby, Stripe, Sanity.io, Acuity Scheduler
+     
+     \smallskip
+     }
+     %
+     \datedexperience{Portfolio}{May 2020 - Present}
+    \explanation{Personal Project}{}
+    \explanationdetail{
+    \smallskip
+     \coloredbullet\ %
+     My portfolio website showcases my projects, services, and insights while serving as a dynamic testing ground for innovative code practices, technologies, and design principles.
+     
+     \smallskip
+     \coloredbullet\ %
+     Technologies: Next, Tailwind CSS, Framer motion, MDX, Vercel
+     
+     \smallskip
+     \coloredbullet\ %
+     View Project: \href{https://ethancavill.me}{Website}
+     
+     \smallskip
+     }
+     %
+     \datedexperience{Devarity}{Jan 2020 - Jun 2020}
+    \explanation{Indie Game Distribution Platform}{}
+    \explanationdetail{
+    \smallskip
+     \coloredbullet\ %
+     This indie game distribution platform champions independent game developers by offering fairer profit margins and a unique customer experience. At launch we featured over 50 games from our partners.
+     
+     \smallskip
+     \coloredbullet\ %
+     Technologies: PHP, MySQL, Python, Bootstrap, JQuery
+     
      \smallskip
      }
 
-\section{Publications}
-\indent
-\explanationdetail{
-\smallskip 
-\coloredbullet\ %
- \textbf{John Doe} and FirstName LastName, "Super Awesome Modification for UAV Control Systems," \emph{2020 International Conference on Super Cool Stuff (ICSCS)}, Paris, France.
- }
 \end{document}
