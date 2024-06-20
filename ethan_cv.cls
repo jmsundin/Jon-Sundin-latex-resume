@@ -55,10 +55,11 @@
 }
 
 \newcommand{\contact}{%
-        {\small \@mail \ \cpshalf \@mobile %
-        \\%
-        \linkedinview \cpshalf \githubview \cpshalf \portfolioview \\ 
-        } % 
+    {\small \@mail \ \cpshalf \@mobile \ \cpshalf \textit{\@citizenship} %
+    \\%
+    \@address \\ %
+    \linkedinview \cpshalf \githubview \cpshalf \portfolioview \\ 
+    } % 
 }
 
 % Helper commands
