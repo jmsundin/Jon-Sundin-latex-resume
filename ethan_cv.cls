@@ -39,7 +39,7 @@
 % Header
 \newcommand\headerview{
 \hfill
-\begin{minipage}{0.55\linewidth} % extend header length here
+\begin{minipage}{0.95\linewidth} % extend header length here
     \center \name \\[0.05cm] 
     \contact % address \ mobile \\ mail
 \end{minipage}
@@ -55,12 +55,12 @@
 }
 
 \newcommand{\contact}{%
-    {\small \@mail \ \cpshalf \@mobile \ \cpshalf {\@citizenship} %
+    {\small \@mail \ \cpshalf \@mobile \ \cpshalf \@address \ \cpshalf \@citizenship %
     \\%
-    \@address \\ %
     \linkedinview \cpshalf \githubview \cpshalf \portfolioview \\ 
     } % 
 }
+
 
 % Helper commands
 \newcommand\ruleafter[1]{#1~{\color{black!60!\@themecolor}\hrulefill}} % a trick to put the line with <before> parameter in \titleformat
