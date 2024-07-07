@@ -46,9 +46,9 @@
 \hfill
 }
 
-\newcommand{\linkedinview}{\href{\@linkedinaccount}{\faLinkedinSquare\ \footnotesize linkedin}}
-\newcommand{\githubview}{\href{\@githubaccount}{\faGithubSquare\ \footnotesize github}}
-\newcommand{\portfolioview}{\href{\@portfolioaccount}{\faGlobe\ \footnotesize portfolio}}
+\newcommand{\linkedinview}{\href{\@linkedinaccount}{\footnotesize linkedin}}
+\newcommand{\githubview}{\href{\@githubaccount}{\footnotesize github}}
+\newcommand{\portfolioview}{\href{\@portfolioaccount}{\footnotesize portfolio}}
 
 \newcommand{\name}{%
     {\LARGE \color{\@themecolor} \@firstname \ \textsc{\@lastname}}
@@ -58,7 +58,7 @@
     {\small \@mail \ \cpshalf \@mobile \ \cpshalf {\@citizenship} %
     \\%
     \@address \\ %
-    \linkedinview \cpshalf \githubview \cpshalf \portfolioview \\ 
+    \linkedinview\hspace{0.25em}\cpshalf\hspace{0.25em}\githubview\hspace{0.25em}\cpshalf\hspace{0.25em}\portfolioview\\ 
     } % 
 }
 

@@ -262,10 +262,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr9.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
@@ -303,12 +299,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmri10.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT ethan_cv.aux
 INPUT ./ethan_cv.out
 INPUT ./ethan_cv.out
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb
