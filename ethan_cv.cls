@@ -55,7 +55,7 @@
 }
 
 \newcommand{\contact}{%
-    {\small \@mail \ \cpshalf \@mobile \ \cpshalf \textit{\@citizenship} %
+    {\small \@mail \ \cpshalf \@mobile \ \cpshalf {\@citizenship} %
     \\%
     \@address \\ %
     \linkedinview \cpshalf \githubview \cpshalf \portfolioview \\ 
