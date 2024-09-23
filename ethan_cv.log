@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.14)  22 SEP 2024 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.14)  22 SEP 2024 21:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -481,8 +481,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 12.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-No file ethan_cv.aux.
+) (./ethan_cv.aux)
 \openout1 = `ethan_cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -503,7 +502,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count310
 \scratchdimen=\dimen289
@@ -557,11 +556,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 12.
+(./ethan_cv.out) (./ethan_cv.out)
 \@outlinefile=\write5
 \openout5 = `ethan_cv.out'.
 
 LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 15.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmr.fd
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 15.
@@ -570,33 +570,8 @@ File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 15.
-
-/Users/ethancavill/Documents/code/latex_resume/ethan_cv.tex:15: Undefined control sequence.
-<recently read> \@address 
-                          
-l.15 \headerview
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-/Users/ethancavill/Documents/code/latex_resume/ethan_cv.tex:15: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \headerview
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 15.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 15.
@@ -655,28 +630,22 @@ L3 programming layer <2024-02-20>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `ethan_cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ethan_cv.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9E007BCBDDCAA05DFF673A7EFC2E3494;337.
+Package rerunfilecheck Info: File `ethan_cv.out' has not changed.
+(rerunfilecheck)             Checksum: 9E007BCBDDCAA05DFF673A7EFC2E3494;337.
  ) 
 Here is how much of TeX's memory you used:
- 22181 strings out of 474116
- 410967 string characters out of 5743682
+ 22193 strings out of 474116
+ 411133 string characters out of 5743682
  1954187 words of memory out of 5000000
- 44163 multiletter control sequences out of 15000+600000
+ 44169 multiletter control sequences out of 15000+600000
  613642 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,121p,512b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on ethan_cv.pdf (1 page, 200887 bytes).
+Output written on ethan_cv.pdf (1 page, 201303 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

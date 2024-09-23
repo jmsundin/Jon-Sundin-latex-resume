@@ -57,7 +57,6 @@
 \newcommand{\contact}{%
     {\small \@mail \ \cpshalf \@mobile \ \cpshalf {\@citizenship} %
     \\%
-    \@address \\ %
     \linkedinview\hspace{0.25em}\cpshalf\hspace{0.25em}\githubview\hspace{0.25em}\cpshalf\hspace{0.25em}\portfolioview\\ 
     } % 
 }
