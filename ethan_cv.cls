@@ -15,13 +15,13 @@
 \RequirePackage{ifthen}
 \RequirePackage{lipsum}
 \RequirePackage{array}
+\usepackage{booktabs}
 \pagestyle{empty}
 
 \usepackage{comment}
 
 % Setup
 \newcommand*{\setname}[2]{\def\@firstname{#1}\def\@lastname{#2}}
-\newcommand*{\setaddress}[1]{\def\@address{#1}}
 \newcommand*{\setmobile}[1]{\def\@mobile{#1}}
 \newcommand*{\setposition}[1]{\def\@position{#1}}
 \newcommand*{\setmail}[1]{\def\@mail{#1}}
