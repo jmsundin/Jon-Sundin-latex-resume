@@ -1,8 +1,8 @@
-% Created by Ethan Cavill
+% Created by Jon Sundin
 \RequirePackage[dvipsnames]{xcolor} % moved here I guess article class causes option clash with xcolor if used after loading the class
 \LoadClass[11pt]{article}
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{ethan_cv}[2024/05/14 Ethan CV Class]
+\ProvidesClass{jon-sundin-cv}[2024/10/04 Jon Sundin CV Class]
 \RequirePackage{lmodern} % Use Latin Modern fonts
 \RequirePackage{etoolbox}
 \RequirePackage{pgffor}
@@ -102,18 +102,4 @@
 
 \newcommand{\explanationdetail}[1]{%
     \indent \indent \begin{minipage}{0.87\linewidth} \footnotesize #1 \end{minipage} \\[0.1cm]
-}
-
-\newcommand\createskill[2]{%
-    \textbf{#1} & #2
-}
-
-\newcommand\createskills[1]{%
-\explanationdetail{
-  \begin{tabular}{rl}
-    \makeatletter
-    \@for\thisitem:=#1\do{\thisitem\\[0.1cm]}
-    \makeatother
-    \end{tabular}
-}
 }

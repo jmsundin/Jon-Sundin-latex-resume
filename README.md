@@ -1,13 +1,13 @@
 
-# Ethan Cavill's LaTeX CV
+# Jon Sundin's LaTeX CV
 
-This repository contains the source code for Ethan Cavill's CV, written in LaTeX. The CV uses a custom class file (`ethan_cv.cls`) for styling.
+This repository contains the source code for Jon Sundin's CV, written in LaTeX. The CV uses a custom class file (`jon-sundin-cv.cls`) for styling.
 
 ## Files
 
-- `ethan_cv.cls`: Custom LaTeX class file for the CV.
-- `ethan_cv.tex`: Main LaTeX file for the CV.
-- `ethan_cv.pdf`: Compiled PDF of the CV.
+- `jon-sundin-cv.cls`: Custom LaTeX class file for the CV.
+- `jon-sundin-cv.tex`: Main LaTeX file for the CV.
+- `jon-sundin-cv.pdf`: Compiled PDF of the CV.
 
 ## Requirements
 
@@ -19,7 +19,7 @@ This repository contains the source code for Ethan Cavill's CV, written in LaTeX
 To compile the CV, use the following command:
 
 ```bash
-latexmk -pdf ethan_cv.tex
+latexmk -pdf jon-sundin-cv.tex
 ```
 
 To clean auxiliary files generated during compilation, use:
@@ -28,7 +28,7 @@ To clean auxiliary files generated during compilation, use:
 latexmk -C
 ```
 
-You can customize the CV by modifying the `ethan_cv.tex` file, such as updating the name, contact information, and sections as needed.
+You can customize the CV by modifying the `jon-sundin-cv.tex` file, such as updating the name, contact information, and sections as needed.
 
 ## License
 
